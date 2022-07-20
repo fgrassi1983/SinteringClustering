@@ -2,6 +2,7 @@
 Custom made distance-based clustering algorithm
 
 Developed by: Fabio Grassi, PhD
+
 Debugged by: Paolo Sofia
 
 ## How it works
